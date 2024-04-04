@@ -1,0 +1,32 @@
+ID :E006
+Role :Packer
+Clock In Date :23 Jan 2024 (Tuesday)
+Clock In Time :14:29:05
+ID :E001
+Role :Producer
+Clock In Date :23 Jan 2024 (Tuesday)
+Clock In Time :14:48:29
+ID :E002
+Role :Packer
+Clock In Date :23 Jan 2024 (Tuesday)
+Clock In Time :21:08:09
+ID :E004
+Role :Producer
+Clock In Date :23 Jan 2024 (Tuesday)
+Clock In Time :21:28:11
+ID :E001
+Role :Producer
+Clock In Date :24 Jan 2024 (Wednesday)
+Clock In Time :12:57:30
+ID :E001
+Role :Producer
+Clock In Date :25 Jan 2024 (Thursday)
+Clock In Time :10:08:02
+ID :E020
+Role :Packer
+Clock In Date :25 Jan 2024 (Thursday)
+Clock In Time :14:41:28
+ID :E002
+Role :Packer
+Clock In Date :25 Jan 2024 (Thursday)
+Clock In Time :14:43:58

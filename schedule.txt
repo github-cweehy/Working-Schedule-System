@@ -1,0 +1,329 @@
+ID:E004
+Month:1
+Date:1
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E002
+Month:1
+Date:1
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E016
+Month:1
+Date:1
+Role:Producer
+Start Time:1000
+End Time:1900
+
+ID:E001
+Month:1
+Date:1
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E016
+Month:1
+Date:2
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E004
+Month:1
+Date:2
+Role:Packer
+Start Time:1000
+End Time:1900
+
+ID:E001
+Month:1
+Date:2
+Role:Producer
+Start Time:1000
+End Time:1800
+
+ID:E002
+Month:1
+Date:3
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:3
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:4
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:5
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:8
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:9
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E002
+Month:1
+Date:10
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:10
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:11
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:12
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:15
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:16
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:17
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:18
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:19
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:22
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:23
+Role:Packer
+Start Time:0800
+End Time:1500
+
+ID:E006
+Month:1
+Date:23
+Role:Packer
+Start Time:1100
+End Time:2100
+
+ID:E002
+Month:1
+Date:23
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E004
+Month:1
+Date:23
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:24
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E019
+Month:1
+Date:24
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:25
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E002
+Month:1
+Date:25
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:26
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:29
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:1
+Date:30
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E002
+Month:2
+Date:1
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E007
+Month:2
+Date:1
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E002
+Month:2
+Date:2
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E001
+Month:2
+Date:5
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E002
+Month:2
+Date:8
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E020
+Month:2
+Date:27
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E020
+Month:2
+Date:28
+Role:Packer
+Start Time:1200
+End Time:2000
+
+ID:E020
+Month:1
+Date:25
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E020
+Month:1
+Date:26
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E020
+Month:1
+Date:24
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E020
+Month:1
+Date:22
+Role:Packer
+Start Time:0900
+End Time:1800
+
+ID:E008
+Month:1
+Date:25
+Role:Producer
+Start Time:0900
+End Time:1800
+
+ID:E021
+Month:2
+Date:24
+Role:Producer
+Start Time:0900
+End Time:1800
+

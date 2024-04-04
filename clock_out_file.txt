@@ -1,0 +1,28 @@
+ID :E006
+Role :Packer
+Clock Out Date :23 Jan 2024 (Tuesday)
+Clock Out Time :14:29:38
+ID :E001
+Role :Producer
+Clock Out Date :23 Jan 2024 (Tuesday)
+Clock Out Time :14:48:48
+ID :E002
+Role :Packer
+Clock Out Date :23 Jan 2024 (Tuesday)
+Clock Out Time :21:08:12
+ID :E001
+Role :Producer
+Clock Out Date :24 Jan 2024 (Wednesday)
+Clock Out Time :12:57:35
+ID :E001
+Role :Producer
+Clock Out Date :25 Jan 2024 (Thursday)
+Clock Out Time :10:09:28
+ID :E020
+Role :Packer
+Clock Out Date :25 Jan 2024 (Thursday)
+Clock Out Time :14:41:37
+ID :E002
+Role :Packer
+Clock Out Date :25 Jan 2024 (Thursday)
+Clock Out Time :14:44:39
